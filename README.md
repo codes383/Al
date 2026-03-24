@@ -12,7 +12,7 @@
 - 🌱 Hozirda **[texnologiya/til]** o'rganmoqdaman
 - 👯 **Open source** loyihalarida hamkorlik qilishga tayyor
 - 💬 **[mavzular]** haqida so'rang
-- 📫 Bog'lanish: **[alishershonoazarov370@example.com]**
+- 📫 Bog'lanish: **[alishershonoazarov370@gmail.com]**
 - ⚡ Qiziqarli fakt: **[qiziqarli narsa siz haqingizda]**
  
 ---
