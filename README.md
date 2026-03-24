@@ -63,7 +63,7 @@
 ## 🏆 GitHub Yutuqlarim
  
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=CODES_383&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies"/>
 </div>
  
 ---
@@ -71,7 +71,7 @@
 ## 📈 Hissa Grafigi
  
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GITHUB_USERNAME&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CODES_383&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="activity graph"/>
 </div>
  
 ---
